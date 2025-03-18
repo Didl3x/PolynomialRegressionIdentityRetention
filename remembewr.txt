@@ -1,0 +1,3 @@
+fortsetter å tracke trajectory når den ikke er detected
+Reflect over 1ene misidentification, følger ikke laws of physics not natural movements
+Reflect over kinematics originale ide som ledet til polynomial regression
